@@ -1,7 +1,7 @@
 baseURL: https://rankingsandratings.net/
 languageCode: en-us
 DefaultContentLanguage: en
-title: DATA 607
+title: DATA 607 - Fall 2021
 theme: hugo-theme-techdoc
 hasCJKLanguage: yes
 metaDataFormat: yaml
