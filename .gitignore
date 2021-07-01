@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+private/
+Meetups/*
+*.pxd
+Slides/Slides_Fall2020/*
+docs/slides/Slides_Fall2020/*
