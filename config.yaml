@@ -1,7 +1,7 @@
-baseURL: https://example.com
+baseURL: https://rankingsandratings.net/
 languageCode: en-us
 DefaultContentLanguage: en
-title: Hugo Techdoc Theme
+title: DATA 607
 theme: hugo-theme-techdoc
 hasCJKLanguage: yes
 metaDataFormat: yaml
@@ -31,8 +31,8 @@ params:
   custom_font_color: ''
   dateformat: ''
   description: put your description
-  github_doc_repository: https://github.com/thingsym/hugo-theme-techdoc
-  github_repository: https://github.com/thingsym/hugo-theme-techdoc
+  github_doc_repository: https://github.com/acatlin/rankingsandratings.git
+  github_repository: https://github.com/acatlin/rankingsandratings.git
   google_analytics_id: ''
   google_site_verification: ''
   images: images/og-image.png
